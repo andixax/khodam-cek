@@ -2,6 +2,8 @@
 Dapatkan khodam mu dan adu ! (Script ini hanya candaan jangan di bawa serius apa lagi sampe skibidi🚶)
 
 
+D!XA ( DIHINA TAX APA DI INJAK LANGSUNG SIGMA🙀😎😎😎😎🗣️ )
+
 
 ## Only Termux And Only Sigma Male😏😯🚶
 
