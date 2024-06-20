@@ -13,10 +13,9 @@ Dapatkan khodam mu dan adu ! (Script ini hanya candaan jangan di bawa serius apa
 > pkg install git;pkg install python3;pkg install python-pip
 
 ```install = [ 
-git clone https://github.com/andixax/khodam-cek;cd khodam-cek;pip install -r woi-sigma.txt;python3 khodam.py
-]
+git clone https://github.com/andixax/khodam-cek;cd khodam-cek;pip install -r woi-sigma.txt;python3 khodam.py]
 
-
+```
 ![IMG_20240620_153757](https://github.com/andixax/khodam-cek/assets/168948944/1148bd50-b68b-468c-b89d-072c5754f554)
 
 
@@ -163,4 +162,5 @@ Khodam Yang Bisa Anda DapatKan😯😯🤨😯😱
         "Suki Type G4",
         "The World",
         "Star Platinum",
-    ```
+    
+```
