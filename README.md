@@ -20,3 +20,5 @@ Dapatkan khodam mu dan adu ! (Script ini hanya candaan jangan di bawa serius apa
 Gabung saluran agar anda selalu sigma 😯 ( saya tidak memaksa karena sedang mewing😏🚶 )
 
 
+Ikuti saluran &D!XA SIGMA😯 di WhatsApp: https://whatsapp.com/channel/0029VaiudVq2phHTDMGWux0w
+
