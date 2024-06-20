@@ -27,7 +27,7 @@ Ikuti saluran &D!XA SIGMA😯 di WhatsApp: https://whatsapp.com/channel/0029Vaiu
 kalo dipikir pikir ni nama script nya sama isi nya beda juga ya🗿 nama nya cek khodam tapi malah jadi ...🤨🗿   kalo kata gw malah ke khodam battle🗿
 
 Khodam Yang Bisa Anda DapatKan😯😯🤨😯😱       
-nama_khodam = [
+```nama_khodam = [
         "Martabak Cokelat",
         "Naga Sakti",
         "Ratu Pantai Selatan",
@@ -161,4 +161,4 @@ nama_khodam = [
         "Suki Type G4",
         "The World",
         "Star Platinum",
-    
+    ```
