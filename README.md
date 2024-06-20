@@ -12,7 +12,8 @@ Dapatkan khodam mu dan adu ! (Script ini hanya candaan jangan di bawa serius apa
 
 > pkg install git;pkg install python3;pkg install python-pip
 
-install = [ git clone https://github.com/andixax/khodam-cek;cd khodam-cek;pip install -r woi-sigma.txt;python3 khodam.py
+```install = [ 
+git clone https://github.com/andixax/khodam-cek;cd khodam-cek;pip install -r woi-sigma.txt;python3 khodam.py
 ]
 
 
